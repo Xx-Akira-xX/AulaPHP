@@ -9,30 +9,15 @@
 
 </head>
 <body>
-    
-    <div class="menu">
 
-        <div>
-
-            Aula BD
-
-        </div>
-
-        <div>
-
-            <a href="#">Cadastrar</a>
-            <a href="#">Consultar</a>
-
-        </div>
-
-    </div>
+    <?php include "menu.php"?>
     
     <div class="conteudo">
 
             <h3>Integração de PHP com MySQL</h3>
 
             <p>
-                Na ala de oje, vamos estudar como integrar o PHP com MySQL
+                Na aula de hoje, vamos estudar como integrar o PHP com MySQL
             </p>
             
     </div>
