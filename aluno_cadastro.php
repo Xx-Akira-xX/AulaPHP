@@ -12,6 +12,8 @@
 
     <?php include "menu.php"?>
 
+    
+
     <form action="#" method="post">
         <p>
             Informe o nome do aluno: <br>
@@ -29,7 +31,7 @@
         </p>
 
         <p>
-            <input type="submit" name="enviar" value="cadastrar">
+            <input type="submit" name="enviar" value="Cadastrar">
         </p>
 
     </form>
