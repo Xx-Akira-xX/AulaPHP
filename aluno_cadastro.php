@@ -15,6 +15,9 @@
     
 
     <form action="#" method="post">
+
+        <h2>Cadastro de alunos<h2>   
+
         <p>
             Informe o nome do aluno: <br>
             <input type="text" name="nome">

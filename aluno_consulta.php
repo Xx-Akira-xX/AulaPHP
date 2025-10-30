@@ -11,30 +11,36 @@
 <body>
 
     <?php include "menu.php"?>
-
-    <h1>Consuta de alunos</h1>
-
-    <table>
-
-        <thead>
-            <tr>
-                <th>Código</th>
-                <th>Nome</th>
-                <th>Cidade</th>
-                <th>Estado</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>1</td>
-                <td>Guilherme</td>
-                <td>São José do Rio Pardo</td>
-                <td>SP</td>
-            </tr>
-        </tbody>
-
-
-    </table>
     
+    
+
+    <div class="consulta">
+    
+    <h2>Consulta de alunos<h2>
+
+        <table>
+
+            <thead>
+                <tr>
+                    <th>Código</th>
+                    <th>Nome</th>
+                    <th>Cidade</th>
+                    <th>Estado</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Guilherme</td>
+                    <td>São José do Rio Pardo</td>
+                    <td>SP</td>
+                </tr>
+            </tbody>
+
+
+        </table>
+
+    </div>
+
 </body>
 </html>
