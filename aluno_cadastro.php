@@ -14,7 +14,7 @@
 
     
 
-    <form action="#" method="post">
+    <form action="aluno_cadastro1.php" method="post">
 
         <h2>Cadastro de alunos<h2>   
 

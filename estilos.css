@@ -13,9 +13,12 @@ h1{
     justify-content: space-between;
     color: white;
     background-color: rgb(96, 0, 0);
+    font-size: 15px;
+    padding: 10px;
 }
 .menu  a{
     color: white;
+ 
 }
 .menu  a{
     text-decoration: orange;
@@ -44,6 +47,7 @@ input[type=text]{
     width: 98%;
     height: 35px;
     border-radius: 4px;
+    font-size: 15px;
 }
 input[type=submit]{
     background-color: rgb(96, 0, 0);
