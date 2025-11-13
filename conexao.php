@@ -1,9 +1,9 @@
 <?php
 
-    $servidor = "localhost"
-    $bancodados = "aulabd"
-    $usuario = "root"
-    $senha = ""
+    $servidor = "localhost";
+    $bancodados = "aulabd";
+    $usuario = "root";
+    $senha = "";
     
     $datasource = "mysql:host=$servidor;dbname=$bancodados;charset=UTF8";
 
