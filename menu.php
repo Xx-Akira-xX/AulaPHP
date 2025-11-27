@@ -22,6 +22,7 @@
             <a href="aluno_consulta.php">Consultar</a>
             <a href="professor_cadastro.php">Prof. Cadastrar</a>
             <a href="professor_consulta.php">Prof. Consultar</a>
+            <a href="curso_cadastro.php">Cad. Cursos</a>
 
         </div>
 
