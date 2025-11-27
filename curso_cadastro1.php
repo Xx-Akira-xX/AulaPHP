@@ -14,7 +14,7 @@
     <?php include "menu.php"?>
     
     <div class="conteudo">
-        <h3>Confirmação de Cadstro</h3>
+        <h3>Confirmação de Cadastro</h3>
     
    
     <?php
@@ -23,8 +23,8 @@
         {
             include "conexao.php";
 
-            $nome = $_REQUEST["curso"];
-            $cidade = $_REQUEST["coordenador"];
+            $curso = $_REQUEST["curso"];
+            $coordenador = $_REQUEST["coordenador"];
 
             $sql = "insert into cursos (curso, coordenador) values (:curso, :coordenador)";
 
